@@ -14,7 +14,7 @@
     "@mantine/hooks": "^5.9.4",
     "@mantine/modals": "^5.9.4",
     "@mantine/next": "^5.9.4",
-    "@mantine/nprogress": "^5.9.4",
+    "@mantine/nprogress": "^5.10.5",
     "@mantine/prism": "^5.9.4",
     "@mantine/spotlight": "^5.9.4",
     "@mantine/tiptap": "^5.9.4",
